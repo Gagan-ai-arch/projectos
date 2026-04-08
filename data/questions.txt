@@ -1,0 +1,20 @@
+What is a deadlock?|Fast execution|Process waiting forever|Memory leak|CPU overload|2
+What does CPU scheduling do?|Manages memory|Manages processes|Controls disk|Handles input|2
+What is paging?|Memory management technique|CPU scheduling|Process creation|File handling|1
+What is a process?|Program in execution|File in disk|Memory block|CPU instruction|1
+What is a thread?|Lightweight process|Heavy process|CPU core|Disk operation|1
+Which scheduling is non-preemptive?|FCFS|Round Robin|SJF Preemptive|Priority Preemptive|1
+Which scheduling uses time quantum?|FCFS|Round Robin|SJF|Priority|2
+What is virtual memory?|Fake memory|Memory on disk used as RAM|Cache memory|Register memory|2
+What is thrashing?|CPU overheating|Excessive paging|Memory leak|Disk failure|2
+Which is a synchronization tool?|Semaphore|Compiler|Loader|Assembler|1
+What is a semaphore?|Variable for signaling|Memory block|CPU register|File pointer|1
+What causes deadlock?|Mutual exclusion|Infinite memory|Fast CPU|Large disk|1
+What is context switching?|Switching CPU|Switching processes|Switching memory|Switching files|2
+Which is a type of OS?|Batch OS|Word Processor|Compiler|Database|1
+What is fragmentation?|Memory waste|CPU idle|Disk crash|Network error|1
+What is spooling?|Buffering jobs|Deleting files|Running process|Stopping CPU|1
+What is a kernel?|Core of OS|Application|Hardware|Driver|1
+Which memory is fastest?|RAM|Cache|Disk|Virtual Memory|2
+What is starvation?|Process never gets CPU|CPU stops|Memory overflow|Disk full|1
+Which scheduling is best for time sharing?|FCFS|Round Robin|SJF|FIFO|2
